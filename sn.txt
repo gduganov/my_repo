@@ -1,8 +1,5 @@
 --- BEGIN LICENSE KEY ---
-mrtX-Rw33xtraGSI3ztytb6oxwKMbk2slMQHvZ4Ifoons1yb+zulBD8Bw
-BCHgSoDktFw9EsGJTVnSedjMnmNgESaEtkKfEee7T4kEyJJdHNmIrKcvD
-kxXz3sKDvuHbYV28Q1lE9s3jTddGiPplhoHf1TuiSi27rIsj1vs4KFVB0
-csLzj-jNwHxRD376bNfj+e+coq9EXZDJ+FuFBMTeMZS2jmLlPyOjDE+FI
+mrtX-LlPyOjDE+FI
 4Rh1XKQsSCtb4QABntVkUo1D4rjLAlAurczTfbN4GNOl3gZNybrRBsfUh
 Vn9ISrT2CJAnJWuv4U0lYky3c7Rmmr8eAVuZrb6t+TisJ4FrnlJHMt2K+
 --- END LICENSE KEY -----
